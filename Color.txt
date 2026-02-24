@@ -1,1 +1,3 @@
 1. red
+2. magenta
+3. beige
